@@ -1,0 +1,25 @@
+.Layout {
+  background-image: linear-gradient(#95bfec, #ffffff);
+  background-repeat: no-repeat;
+}
+.header {
+  height: 63px;
+}
+.header-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+.navbar-cart-icon {
+  cursor: pointer;
+  transform: translateY(-3px);
+}
+
+.layout_navbar--avata img {
+  margin-right: 10px;
+  border-radius: 50% 50%;
+  width: 45px;
+  height: 45px;
+}

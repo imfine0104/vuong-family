@@ -1,0 +1,11 @@
+.AboutUs {
+  margin: 0 auto;
+}
+.about-us-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.about-us-card {
+  margin: 20px;
+}

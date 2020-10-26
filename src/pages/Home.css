@@ -1,0 +1,11 @@
+* {
+  text-align: center;
+}
+.Home_header {
+  margin: 0 auto;
+  max-width: 900px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 3%;
+}
